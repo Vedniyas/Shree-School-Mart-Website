@@ -1,0 +1,12 @@
+name = "shree-school-mart"
+main = "dist/server/index.js"
+compatibility_date = "2025-02-01"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = "dist/client"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "shree-school-mart-db"
+database_id = "dc0c3746-fdad-4448-9a01-6dff80ecab64"
